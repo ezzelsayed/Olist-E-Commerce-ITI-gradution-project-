@@ -1,7 +1,7 @@
 # Olist-E-Commerce-ITI-gradution-project-
 
 
-[Project LINK on youtube]([(https://www.youtube.com/watch?v=YgZXTSDYt-s)])
+[Project LINK on youtube](https://www.youtube.com/watch?v=YgZXTSDYt-s))
 
 
 ![Olist](https://user-images.githubusercontent.com/126327548/225124960-4ca3cfe7-3725-44e3-9941-aea76b48bef2.png)
